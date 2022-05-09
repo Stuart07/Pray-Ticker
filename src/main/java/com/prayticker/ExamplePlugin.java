@@ -1,4 +1,4 @@
-package com.example;
+package com.prayticker;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
@@ -14,7 +14,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Example"
+	name = "Pray Ticker"
 )
 public class ExamplePlugin extends Plugin
 {
